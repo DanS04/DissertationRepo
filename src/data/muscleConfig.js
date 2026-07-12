@@ -1,0 +1,163 @@
+// Muscle metadata mapping GLB node names todisplay info & recovery constants
+// recoveryHours = time (hours) for fatigue to decay to 20% of peak (full readiness threshold)
+// Large compound muscles reach 20% fatigue at 72h, small isolation 48h, core/forearms 36h
+
+export const MUSCLE_CONFIG = {
+  Calves: {
+    displayName: 'Calves',
+    anatomical: 'Gastrocnemius & Soleus',
+    group: 'Legs',
+    recoveryHours: 36,
+    description: 'Lower leg plantar flexors. Key stabilisers during loaded movement.',
+  },
+  QuadsRecFem: {
+    displayName: 'Quadriceps (Rectus Femoris)',
+    anatomical: 'Rectus Femoris',
+    group: 'Legs',
+    recoveryHours: 72,
+    description: 'Bi-articular quad head, responsible for knee extension and hip flexion. High fatigue accumulation.',
+  },
+  QuadsVasti: {
+    displayName: 'Quadriceps (Vasti)',
+    anatomical: 'Vastus Lateralis, Medialis & Intermedius',
+    group: 'Legs',
+    recoveryHours: 72,
+    description: 'Primary knee extensors. Largest muscle cross-section in the leg.',
+  },
+  Hamstrings: {
+    displayName: 'Hamstrings',
+    anatomical: 'Biceps Femoris, Semimembranosus, Semitendinosus',
+    group: 'Legs',
+    recoveryHours: 72,
+    description: 'Posterior thigh. Responsible for knee flexion and hip extension. Highest DOMS risk.',
+  },
+  Glutes: {
+    displayName: 'Gluteus Maximus',
+    anatomical: 'Gluteus Maximus',
+    group: 'Legs',
+    recoveryHours: 72,
+    description: 'Largest muscle in body. Primary hip extensor and external rotator.',
+  },
+  ErectorSpinae: {
+    displayName: 'Erector Spinae',
+    anatomical: 'Iliocostalis, Longissimus, Spinalis',
+    group: 'Back',
+    recoveryHours: 60,
+    description: 'Spinal erector column. Maintains upright posture under axial load.',
+  },
+  Abs: {
+    displayName: 'Rectus Abdominis',
+    anatomical: 'Rectus Abdominis',
+    group: 'Core',
+    recoveryHours: 36,
+    description: 'Anterior trunk flexor. High neural recruitment under heavy spinal load.',
+  },
+  Obliques: {
+    displayName: 'Obliques',
+    anatomical: 'Internal & External Oblique',
+    group: 'Core',
+    recoveryHours: 36,
+    description: 'Rotational core muscles. Anti-rotation stabilisers in compound lifts.',
+  },
+  SerratusAnterior: {
+    displayName: 'Serratus Anterior',
+    anatomical: 'Serratus Anterior',
+    group: 'Core',
+    recoveryHours: 36,
+    description: 'Scapular protractor. Critical for overhead stability and pressing.',
+  },
+  ForearmFlexor: {
+    displayName: 'Forearm Flexors',
+    anatomical: 'Flexor Carpi Radialis, Flexor Digitorum',
+    group: 'Arms',
+    recoveryHours: 36,
+    description: 'Inner forearm. Controls wrist and finger flexion. Important for grip strength.',
+  },
+  ForearmExtensor: {
+    displayName: 'Forearm Extensors',
+    anatomical: 'Extensor Carpi Radialis, Extensor Digitorum',
+    group: 'Arms',
+    recoveryHours: 36,
+    description: 'Outer forearm. Controls wrist and finger extension. Balance to flexors.',
+  },
+  Biceps: {
+    displayName: 'Biceps Brachii',
+    anatomical: 'Biceps Brachii (Long & Short Head)',
+    group: 'Arms',
+    recoveryHours: 48,
+    description: 'Elbow flexion and supination. High activation in all pulling movements.',
+  },
+  TricepsLateral: {
+    displayName: 'Triceps (Lateral Head)',
+    anatomical: 'Triceps Brachii - Lateral Head',
+    group: 'Arms',
+    recoveryHours: 48,
+    description: 'Outer tricep head. Dominant in elbow extension above 90° flexion.',
+  },
+  TricepsMedialLong: {
+    displayName: 'Triceps (Medial & Long)',
+    anatomical: 'Triceps Brachii - Medial & Long Head',
+    group: 'Arms',
+    recoveryHours: 48,
+    description: 'Inner and long heads. Long head crosses shoulder, loaded in overhead press.',
+  },
+  Rhomboids: {
+    displayName: 'Rhomboids',
+    anatomical: 'Rhomboid Major & Minor',
+    group: 'Back',
+    recoveryHours: 60,
+    description: 'Scapular retractors. Key for posture and horizontal pulling strength.',
+  },
+  Traps: {
+    displayName: 'Trapezius',
+    anatomical: 'Trapezius (Upper, Middle, Lower)',
+    group: 'Back',
+    recoveryHours: 60,
+    description: 'Diamond-shaped back muscle. Shoulder elevation, retraction and depression.',
+  },
+  Lats: {
+    displayName: 'Latissimus Dorsi',
+    anatomical: 'Latissimus Dorsi',
+    group: 'Back',
+    recoveryHours: 72,
+    description: 'Broadest back muscle. Primary shoulder adductor and internal rotator.',
+  },
+  PecCostal: {
+    displayName: 'Pec Major (Costal)',
+    anatomical: 'Pectoralis Major - Costal Head',
+    group: 'Chest',
+    recoveryHours: 60,
+    description: 'Lower chest fibres. Most active in flat bench and dips.',
+  },
+  PecClavicular: {
+    displayName: 'Pec Major (Clavicular)',
+    anatomical: 'Pectoralis Major - Clavicular Head',
+    group: 'Chest',
+    recoveryHours: 60,
+    description: 'Upper chest fibres. Dominant in incline pressing and cable crossovers.',
+  },
+  DeltRear: {
+    displayName: 'Posterior Deltoid',
+    anatomical: 'Deltoid - Posterior Head',
+    group: 'Shoulders',
+    recoveryHours: 48,
+    description: 'Rear shoulder. Horizontal abduction and external rotation.',
+  },
+  DeltSide: {
+    displayName: 'Lateral Deltoid',
+    anatomical: 'Deltoid - Lateral Head',
+    group: 'Shoulders',
+    recoveryHours: 48,
+    description: 'Side shoulder cap. Primary shoulder width contributor.',
+  },
+  DeltFront: {
+    displayName: 'Anterior Deltoid',
+    anatomical: 'Deltoid - Anterior Head',
+    group: 'Shoulders',
+    recoveryHours: 48,
+    description: 'Front shoulder. Shoulder flexion, co-activated in all pressing.',
+  },
+}
+
+export const MUSCLE_GROUPS = ['All', 'Chest', 'Back', 'Shoulders', 'Arms', 'Legs', 'Core']
+export const MUSCLE_NAMES = Object.keys(MUSCLE_CONFIG)

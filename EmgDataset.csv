@@ -1,0 +1,93 @@
+exercise,exercise_category,muscle,muscle_group,mean_mvc_pct,sd_mvc_pct,value_type,normalisation_method,source_key,sample_size,population,load,notes,data_quality
+Bench Press,Upper Push,Pectoralis Major (Sternocostal),Chest,102.49,18.16,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX) across both exercise sequences. Free weight bench press.,HIGH
+Bench Press,Upper Push,Anterior Deltoid,Shoulder,77.83,18.56,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX) across both exercise sequences.,HIGH
+Bench Press,Upper Push,Triceps Brachii (Long Head),Triceps,68.78,17.81,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX) across both exercise sequences.,HIGH
+Chest Fly,Upper Push,Pectoralis Major (Sternocostal),Chest,90.80,16.10,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX). Dumbbell fly.,HIGH
+Chest Fly,Upper Push,Anterior Deltoid,Shoulder,76.48,33.33,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX). Large SD reflects exercise-order effect.,HIGH
+Chest Fly,Upper Push,Triceps Brachii (Long Head),Triceps,34.10,14.49,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX).,HIGH
+Shoulder Press,Upper Push,Pectoralis Major (Sternocostal),Chest,57.39,28.49,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX). Free weight overhead press.,HIGH
+Shoulder Press,Upper Push,Anterior Deltoid,Shoulder,87.31,11.46,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX).,HIGH
+Shoulder Press,Upper Push,Triceps Brachii (Long Head),Triceps,45.48,16.63,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX).,HIGH
+Shoulder Abduction (Lateral Raise),Upper Push,Pectoralis Major (Sternocostal),Chest,29.50,19.59,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX). Dumbbell lateral raise.,HIGH
+Shoulder Abduction (Lateral Raise),Upper Push,Anterior Deltoid,Shoulder,74.96,15.46,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX).,HIGH
+Shoulder Abduction (Lateral Raise),Upper Push,Triceps Brachii (Long Head),Triceps,15.88,12.27,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX).,HIGH
+Close Grip Bench Press,Upper Push,Pectoralis Major (Sternocostal),Chest,98.72,24.96,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX).,HIGH
+Close Grip Bench Press,Upper Push,Anterior Deltoid,Shoulder,73.69,16.12,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX).,HIGH
+Close Grip Bench Press,Upper Push,Triceps Brachii (Long Head),Triceps,78.62,17.58,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX).,HIGH
+Lying Triceps Extension,Upper Push,Pectoralis Major (Sternocostal),Chest,72.10,24.06,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX).,HIGH
+Lying Triceps Extension,Upper Push,Anterior Deltoid,Shoulder,44.11,26.66,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX).,HIGH
+Lying Triceps Extension,Upper Push,Triceps Brachii (Long Head),Triceps,83.27,20.43,mean,MVIC,Soncin2014,10,Trained males ≥5yr exp,8RM,Grand mean (ME EX).,HIGH
+Dumbbell Biceps Curl,Upper Pull,Biceps Brachii,Biceps,111.46,26.80,mean,MVC,Ramos2025,24,Trained adults (mixed),80% 1RM,Peak mean %MVC over full repetition. Dumbbell standing curl.,HIGH
+Cable (Bayesian) Biceps Curl,Upper Pull,Biceps Brachii,Biceps,93.39,15.65,mean,MVC,Ramos2025,24,Trained adults (mixed),80% 1RM,Bayesian curl performed with cable from low pulley at shoulder height behind body.,HIGH
+Pull-up (Pronated / Overhand),Upper Pull,Middle Trapezius,Back,60.1,22.5,peak,MVIC,Dickie2017,19,Strength-trained males,Bodyweight,Peak MVIC over full repetition. Significantly greater than neutral grip for mid-trap.,HIGH
+Pull-up (Pronated / Overhand),Upper Pull,Middle Trapezius,Back,48.0,21.2,mean,MVIC,Dickie2017,19,Strength-trained males,Bodyweight,Mean (ARV) MVIC over full repetition.,HIGH
+Pull-up (Neutral Grip),Upper Pull,Middle Trapezius,Back,37.1,13.1,peak,MVIC,Dickie2017,19,Strength-trained males,Bodyweight,Significantly lower mid-trap vs pronated grip.,HIGH
+Pull-up (Traditional Pronated),Upper Pull,Latissimus Dorsi,Back,117.0,,mean,MVIC,Youdas2010,25,Healthy males and females,Bodyweight,Range reported 117–130% across pull-up/chin-up/rotational variations. Very high lat activation.,HIGH
+Pull-up (Traditional Pronated),Upper Pull,Biceps Brachii,Biceps,78.0,,mean,MVIC,Youdas2010,25,Healthy males and females,Bodyweight,Range 78–96% across variations.,HIGH
+Pull-up (Traditional Pronated),Upper Pull,Infraspinatus,Back,71.0,,mean,MVIC,Youdas2010,25,Healthy males and females,Bodyweight,Range 71–79% across variations.,HIGH
+Pull-up (Traditional Pronated),Upper Pull,Lower Trapezius,Back,45.0,,mean,MVIC,Youdas2010,25,Healthy males and females,Bodyweight,Range 45–56% across variations. Lower trap significantly greater than chin-up.,HIGH
+Pull-up (Traditional Pronated),Upper Pull,Pectoralis Major,Chest,44.0,,mean,MVIC,Youdas2010,25,Healthy males and females,Bodyweight,Range 44–57%. Pec major significantly greater in chin-up vs pull-up.,HIGH
+Chin-up (Supinated Grip),Upper Pull,Latissimus Dorsi,Back,130.0,,mean,MVIC,Youdas2010,25,Healthy males and females,Bodyweight,Top of reported range; LD similar across pull-up/chin-up.,HIGH
+Chin-up (Supinated Grip),Upper Pull,Biceps Brachii,Biceps,96.0,,mean,MVIC,Youdas2010,25,Healthy males and females,Bodyweight,Significantly greater biceps activation in chin-up vs pull-up.,HIGH
+Chin-up (Supinated Grip),Upper Pull,Pectoralis Major,Chest,57.0,,mean,MVIC,Youdas2010,25,Healthy males and females,Bodyweight,Significantly greater than pull-up.,HIGH
+Lat Pulldown (Wide Pronated Grip),Upper Pull,Latissimus Dorsi,Back,68.0,22.0,mean,MVC,Edelburg2014,19,Trained males,70% 1RM,Front pulldown wide pronated grip. Approximate from thesis data.,MEDIUM
+Lat Pulldown (Wide Pronated Grip),Upper Pull,Middle Trapezius,Back,38.0,15.0,mean,MVC,Edelburg2014,19,Trained males,70% 1RM,Significantly less mid-trap than rows.,MEDIUM
+Lat Pulldown (Wide Pronated Grip),Upper Pull,Biceps Brachii,Biceps,42.0,14.0,mean,MVC,Edelburg2014,19,Trained males,70% 1RM,Approximate.,MEDIUM
+Seated Cable Row,Upper Pull,Latissimus Dorsi,Back,72.0,20.0,mean,MVC,Edelburg2014,19,Trained males,70% 1RM,Highest lat activation of variations tested.,MEDIUM
+Seated Cable Row,Upper Pull,Middle Trapezius,Back,68.0,18.0,mean,MVC,Edelburg2014,19,Trained males,70% 1RM,Significantly higher than lat pulldown.,MEDIUM
+Seated Cable Row,Upper Pull,Biceps Brachii,Biceps,48.0,16.0,mean,MVC,Edelburg2014,19,Trained males,70% 1RM,Approximate.,MEDIUM
+Bent-Over Barbell Row,Upper Pull,Middle Trapezius,Back,72.0,20.0,mean,MVC,Edelburg2014,19,Trained males,70% 1RM,Among highest mid-trap exercises tested.,MEDIUM
+Bent-Over Barbell Row,Upper Pull,Lower Trapezius,Back,65.0,22.0,mean,MVC,Edelburg2014,19,Trained males,70% 1RM,High lower trap activation.,MEDIUM
+Bent-Over Barbell Row,Upper Pull,Latissimus Dorsi,Back,65.0,20.0,mean,MVC,Edelburg2014,19,Trained males,70% 1RM,Approximate.,MEDIUM
+Inverted Row,Upper Pull,Middle Trapezius,Back,70.0,20.0,mean,MVC,Edelburg2014,19,Trained males,Bodyweight,High mid-trap activation comparable to bent-over row.,MEDIUM
+Inverted Row,Upper Pull,Lower Trapezius,Back,55.0,18.0,mean,MVC,Edelburg2014,19,Trained males,Bodyweight,Approximate.,MEDIUM
+Barbell Hip Thrust,Lower Push,Gluteus Maximus (Upper),Glutes,69.5,,mean,MVIC,Contreras2015a,13,Trained females,~10RM,Significantly greater than back squat. n=13 trained women.,HIGH
+Barbell Hip Thrust,Lower Push,Gluteus Maximus (Lower),Glutes,86.8,,mean,MVIC,Contreras2015a,13,Trained females,~10RM,Significantly greater than back squat.,HIGH
+Barbell Hip Thrust,Lower Push,Gluteus Maximus (Upper),Glutes,172.0,,peak,MVIC,Contreras2015a,13,Trained females,~10RM,Peak activation.,HIGH
+Barbell Hip Thrust,Lower Push,Gluteus Maximus (Lower),Glutes,216.0,,peak,MVIC,Contreras2015a,13,Trained females,~10RM,Peak activation.,HIGH
+Barbell Hip Thrust,Lower Push,Biceps Femoris,Hamstrings,40.8,,mean,MVIC,Contreras2015a,13,Trained females,~10RM,Significantly greater than back squat.,HIGH
+Barbell Hip Thrust,Lower Push,Vastus Lateralis,Quads,99.5,,mean,MVIC,Contreras2015a,13,Trained females,~10RM,No significant difference from back squat.,HIGH
+Back Squat (comparison vs Hip Thrust),Lower Push,Gluteus Maximus (Upper),Glutes,29.4,,mean,MVIC,Contreras2015a,13,Trained females,~10RM,Significantly lower than hip thrust.,HIGH
+Back Squat (comparison vs Hip Thrust),Lower Push,Gluteus Maximus (Lower),Glutes,45.4,,mean,MVIC,Contreras2015a,13,Trained females,~10RM,Significantly lower than hip thrust.,HIGH
+Back Squat (comparison vs Hip Thrust),Lower Push,Biceps Femoris,Hamstrings,14.9,,mean,MVIC,Contreras2015a,13,Trained females,~10RM,Significantly lower than hip thrust.,HIGH
+Back Squat (comparison vs Hip Thrust),Lower Push,Vastus Lateralis,Quads,110.0,,mean,MVIC,Contreras2015a,13,Trained females,~10RM,No significant difference from hip thrust.,HIGH
+Conventional Deadlift,Hinge,Rectus Femoris,Quads,58.57,13.73,mean,%peak EMG,Lee2018,21,Trained males,70% RDL 1RM,Normalised to peak submaximal EMG not MVIC. Use with caution.,MEDIUM
+Conventional Deadlift,Hinge,Gluteus Maximus,Glutes,51.52,6.08,mean,%peak EMG,Lee2018,21,Trained males,70% RDL 1RM,Normalised to peak submaximal EMG not MVIC.,MEDIUM
+Romanian Deadlift,Hinge,Rectus Femoris,Quads,25.26,14.21,mean,%peak EMG,Lee2018,21,Trained males,70% RDL 1RM,Significantly lower than conventional DL. Normalised to peak submaximal EMG.,MEDIUM
+Romanian Deadlift,Hinge,Gluteus Maximus,Glutes,46.88,7.39,mean,%peak EMG,Lee2018,21,Trained males,70% RDL 1RM,Normalised to peak submaximal EMG.,MEDIUM
+Bulgarian Split Squat,Lower Push,Vastus Medialis,Quads,85.4,31.8,mean peak,MVIC,CompAnalysis2026,20,Healthy adults mixed,Bodyweight,Highest VM activation of exercises tested.,HIGH
+Bulgarian Split Squat,Lower Push,Vastus Lateralis,Quads,67.6,22.2,mean peak,MVIC,CompAnalysis2026,20,Healthy adults mixed,Bodyweight,,HIGH
+Backward Lunge,Lower Push,Vastus Medialis,Quads,74.5,23.5,mean peak,MVIC,CompAnalysis2026,20,Healthy adults mixed,Bodyweight,,HIGH
+Backward Lunge,Lower Push,Vastus Lateralis,Quads,59.9,16.6,mean peak,MVIC,CompAnalysis2026,20,Healthy adults mixed,Bodyweight,,HIGH
+Backward Lunge,Lower Push,Rectus Femoris,Quads,40.4,21.6,mean peak,MVIC,CompAnalysis2026,20,Healthy adults mixed,Bodyweight,,HIGH
+Half Squat,Lower Push,Vastus Medialis,Quads,47.5,17.4,mean peak,MVIC,CompAnalysis2026,20,Healthy adults mixed,Bodyweight,~60° knee flexion,HIGH
+Half Squat,Lower Push,Vastus Lateralis,Quads,41.3,13.9,mean peak,MVIC,CompAnalysis2026,20,Healthy adults mixed,Bodyweight,,HIGH
+Split Squat,Lower Push,Vastus Medialis,Quads,58.0,24.0,mean peak,MVIC,CompAnalysis2026,20,Healthy adults mixed,Bodyweight,Approximate from figure.,MEDIUM
+Split Squat,Lower Push,Vastus Lateralis,Quads,50.0,18.0,mean peak,MVIC,CompAnalysis2026,20,Healthy adults mixed,Bodyweight,Approximate from figure.,MEDIUM
+Monopodal Squat (Single-Leg Squat),Lower Push,Gluteus Medius,Glutes,60.0,,mean,MVIC,Fernandez2020,20,Physically active adults,60% 5RM,Approximate from figure. Higher than lunge and step-up for all muscles.,MEDIUM
+Monopodal Squat (Single-Leg Squat),Lower Push,Gluteus Maximus,Glutes,60.0,,mean,MVIC,Fernandez2020,20,Physically active adults,60% 5RM,Approximate from figure.,MEDIUM
+Monopodal Squat (Single-Leg Squat),Lower Push,Vastus Lateralis,Quads,75.0,,mean,MVIC,Fernandez2020,20,Physically active adults,60% 5RM,Approximate from figure. VL and VM highest of all muscles.,MEDIUM
+Forward Lunge,Lower Push,Gluteus Medius,Glutes,35.0,,mean,MVIC,Fernandez2020,20,Physically active adults,60% 5RM,Approximate from figure.,MEDIUM
+Forward Lunge,Lower Push,Gluteus Maximus,Glutes,35.0,,mean,MVIC,Fernandez2020,20,Physically active adults,60% 5RM,Approximate from figure.,MEDIUM
+Forward Lunge,Lower Push,Vastus Lateralis,Quads,50.0,,mean,MVIC,Fernandez2020,20,Physically active adults,60% 5RM,Approximate from figure. RF significantly highest in lunge.,MEDIUM
+Lateral Step-Up,Lower Push,Gluteus Medius,Glutes,28.0,,mean,MVIC,Fernandez2020,20,Physically active adults,60% 5RM,Approximate from figure.,MEDIUM
+Lateral Step-Up,Lower Push,Gluteus Maximus,Glutes,25.0,,mean,MVIC,Fernandez2020,20,Physically active adults,60% 5RM,Approximate from figure.,MEDIUM
+Swiss Ball Roll-Out,Core,Rectus Abdominis (Upper),Abs,63.0,,mean,MVIC,Escamilla2010,18,Healthy adults,Bodyweight,One of highest RA-activating exercises in the study. Significantly greater than most others.,HIGH
+Swiss Ball Roll-Out,Core,Rectus Abdominis (Lower),Abs,53.0,,mean,MVIC,Escamilla2010,18,Healthy adults,Bodyweight,,HIGH
+Swiss Ball Roll-Out,Core,External Oblique,Abs,46.0,,mean,MVIC,Escamilla2010,18,Healthy adults,Bodyweight,,HIGH
+Swiss Ball Roll-Out,Core,Internal Oblique,Abs,46.0,,mean,MVIC,Escamilla2010,18,Healthy adults,Bodyweight,,HIGH
+Swiss Ball Pike,Core,Rectus Abdominis (Upper),Abs,46.0,,mean,MVIC,Escamilla2010,18,Healthy adults,Bodyweight,,HIGH
+Swiss Ball Pike,Core,Rectus Abdominis (Lower),Abs,55.0,,mean,MVIC,Escamilla2010,18,Healthy adults,Bodyweight,,HIGH
+Swiss Ball Pike,Core,External Oblique,Abs,84.0,,mean,MVIC,Escamilla2010,18,Healthy adults,Bodyweight,Highest EO value of any exercise in the study.,HIGH
+Swiss Ball Pike,Core,Internal Oblique,Abs,56.0,,mean,MVIC,Escamilla2010,18,Healthy adults,Bodyweight,,HIGH
+Abdominal Crunch,Core,Rectus Abdominis,Abs,54.43,28.57,mean,MVIC,Snarr2015,mixed,Healthy adults,Bodyweight,Standard crunch knees at 90°. RA significantly greater than EO and RF.,HIGH
+Abdominal Crunch,Core,External Oblique,Abs,32.71,13.91,mean,MVIC,Snarr2015,mixed,Healthy adults,Bodyweight,,HIGH
+Abdominal Crunch,Core,Rectus Femoris,Abs,5.34,9.27,mean,MVIC,Snarr2015,mixed,Healthy adults,Bodyweight,Very low RF activation — good specificity for abdominals.,HIGH
+Crunch (Static Hold - Hands Behind Neck),Core,Rectus Abdominis,Abs,81.0,10.9,mean,MVIC,CoreReview2020,review,Healthy adults,Bodyweight,Highest RA activation reported in systematic review of core exercises.,HIGH
+Crunch (Arms Crossed on Chest),Core,Rectus Abdominis,Abs,67.6,15.7,mean,MVIC,CoreReview2020,review,Healthy adults,Bodyweight,Second highest RA crunch variation.,HIGH
+Overhead Triceps Extension,Upper Push,Triceps Brachii,Triceps,76.0,22.0,mean,MVIC,PorcariTriceps,15,Female college students (20-24yr),70% 1RM,Approximate from thesis table. Among highest tricep activators.,MEDIUM
+Triangle Push-Up,Upper Push,Triceps Brachii,Triceps,88.0,25.0,mean,MVIC,PorcariTriceps,15,Female college students (20-24yr),Bodyweight,Best triceps exercise in study (combined long+lateral head). Statistically similar to kickbacks and dips.,MEDIUM
+Triceps Dips,Upper Push,Triceps Brachii,Triceps,85.0,24.0,mean,MVIC,PorcariTriceps,15,Female college students (20-24yr),Bodyweight,Statistically similar to triangle push-ups and kickbacks.,MEDIUM
+Triceps Kickbacks,Upper Push,Triceps Brachii,Triceps,84.0,23.0,mean,MVIC,PorcariTriceps,15,Female college students (20-24yr),70% 1RM,Statistically similar to triangle push-ups and dips.,MEDIUM
+Bar Pushdown (Cable),Upper Push,Triceps Brachii,Triceps,67.0,20.0,mean,MVIC,PorcariTriceps,15,Female college students (20-24yr),70% 1RM,Significant difference between long and lateral head activation.,MEDIUM
+Rope Pushdown (Cable),Upper Push,Triceps Brachii,Triceps,65.0,20.0,mean,MVIC,PorcariTriceps,15,Female college students (20-24yr),70% 1RM,Significant difference between long and lateral head activation.,MEDIUM
